@@ -1,0 +1,12 @@
+#plugin-translation {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  padding: 5px 10px 5px 10px;
+  z-index: 99999999;
+  background: rgba(0,0,0,1.0);
+  color: white;
+  font-size: 13px;
+  border-radius: 4px;
+  max-width: calc(100vw - 40px);
+}
